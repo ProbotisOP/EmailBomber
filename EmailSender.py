@@ -3,7 +3,7 @@ import random , os
 import string
 
 os.system("figlet MailSender")
-print('                                '"By SATNAM")
+print('                                '"By ProbotisOP")
 small_letters = string.ascii_lowercase
 capital_letters = string.ascii_uppercase
 # FOR GMAIL
